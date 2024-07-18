@@ -4,7 +4,7 @@
 Create an interactive navigation menu with a fixed position, visible on all pages. Structure it using HTML, style it with CSS, and add interactivity with JavaScript. When scrolling or hovering over a menu item, the menu should change color or style. Use a blue gradient for the background, ensuring smooth transitions for a seamless user experience.
 
 
-# Hi, I'm Satyam! 👋
+# Hi, I'm Shreyas! 👋
 
 
 ## 🚀 About Me
@@ -13,13 +13,7 @@ I want to become a full stack Web developer...
 
 ## Authors
 
-- [@Satyam-Shinde](https://github.com/Satyam-Shinde)
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-shinde-885304254/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Satyam_S2004)
+https://github.com/Shreyash-Wagh74
 
 
 ## 🛠 Skills
